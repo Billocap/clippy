@@ -1,0 +1,16 @@
+{
+  "name": "clippy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Gabriel Quintino <pikachurando@pm.me>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "4.1.2",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "skynet": "file:.."
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
